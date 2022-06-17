@@ -6,7 +6,7 @@ Target segments:
 
 - Mechanical workshops located in Lima that provide technical service for automobiles and personalization of them.
 
-
+gh
 Autores:
 
 - Jorge Luis Juan de Dios Apaza
